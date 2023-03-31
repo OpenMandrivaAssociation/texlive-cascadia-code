@@ -1,6 +1,6 @@
 Name:		texlive-cascadia-code
 Version:	57478
-Release:	1
+Release:	2
 Summary:	The Cascadia Code font with support for LaTeX and pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadia-code
