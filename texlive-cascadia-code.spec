@@ -3,7 +3,7 @@ Version:	68485
 Release:	1
 Summary:	The Cascadia Code font with support for LaTeX and pdfLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadia-code
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cascadia-code
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadia-code.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadia-code.doc.r%{version}.tar.xz
